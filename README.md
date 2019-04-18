@@ -24,3 +24,8 @@
 I chose  Visual Studio Code as my IDE because it was highly recommended by many developers 
 and seems like a tool worth mastering
 ~~~~
+
+        **IDE's**
+- [ ] 
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
