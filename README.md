@@ -4,11 +4,11 @@
  [*Visual Studio Code*](https://code.visualstudio.com/)
  
  
- |**Pros**|
+ |**Pros**  :thumbsup:|
  |:------:| 
  |  1. IntelliSense. It analyzes the semantics (letters) of what you are inputting, as well as the rest of the code you have created, and          then provides suggestions on how to finish what you are writing.|
  |  2. Debugger for Chrome. It allows you to set breakpoints and debug JS from within VSCode.|
- |  3. Git integration.| :thumbsup:
+ |  3. Git integration.| 
  
    |     **Cons**   |
  |:------:|
