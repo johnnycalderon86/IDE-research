@@ -10,10 +10,10 @@
  |  2. Debugger for Chrome. It allows you to set breakpoints and debug JS from within VSCode.|
  |  3. Git integration.| 
  
-   |     **Cons**   |
+   |     **Cons**  :see_no_evil: |
  |:------:|
  |  1. A large number of configuration settings and options. This can be a bit overwhelming to a new user.|
  |  2. High Learning Curve.|
  |  3. Sometimes it is slow and requires good computers to work.| 
  
-:see_no_evil:
+
