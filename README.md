@@ -25,7 +25,9 @@ I chose  Visual Studio Code as my IDE because it was highly recommended by many 
 and seems like a tool worth mastering
 ~~~~
 
-        
+   
+  ###IDE's researched### 
+   
 - [ ] Visual studio Code
 - [ ] Sublime Text
 - [ ] Atom
