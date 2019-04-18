@@ -2,7 +2,8 @@
 # Visual Studio Code 
 ![VSC](https://code.visualstudio.com/opengraphimg/opengraph-home.png)
  [*Visual Studio Code*](https://code.visualstudio.com/)
-
+ 
+  :thumbsup:
  |**Pros**|
  |:------:| 
  |  1. IntelliSense. It analyzes the semantics (letters) of what you are inputting, as well as the rest of the code you have created, and          then provides suggestions on how to finish what you are writing.|
