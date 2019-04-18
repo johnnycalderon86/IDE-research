@@ -26,7 +26,7 @@ and seems like a tool worth mastering
 ~~~~
 
    
-  ###IDE's researched### 
+  ### Editors researched
    
 - [ ] Visual studio Code
 - [ ] Sublime Text
