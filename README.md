@@ -21,5 +21,6 @@
 
 
 ~~~~
-I chose  Visual Studio Code as my IDE because it was highly recommended by many developers and seems like a tool worth mastering
+I chose  Visual Studio Code as my IDE because it was highly recommended by many developers 
+and seems like a tool worth mastering
 ~~~~
