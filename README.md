@@ -1,7 +1,7 @@
 # IDE-research
 # Visual Studio Code 
 ![VSC](https://code.visualstudio.com/opengraphimg/opengraph-home.png)
- [Visual Studio Code](https://code.visualstudio.com/)
+ [*Visual Studio Code*](https://code.visualstudio.com/)
 
  |**Pros**|
  |:------:| 
