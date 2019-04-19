@@ -18,7 +18,7 @@
  
 ### Editors researched ###
            
-             _Pros_                               
+             Pros                               
 
 | VSC         |  Atom       | Sublime Text  |    
 | :---        |    :----:   |          ---: |    
@@ -26,7 +26,7 @@
 |             |             |               |    
 
  
-           _Cons_
+             Cons
            
 | VSC         |  Atom       | Sublime Text  |    
 | :---        |    :----:   |          ---: |    
