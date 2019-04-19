@@ -16,12 +16,22 @@
  |  2. High Learning Curve.|
  |  3. Sometimes it is slow and requires good computers to work.| 
  
-### Editors researched (Pros)                                  (Cons)
+### Editors researched ###
+           
+           #### Pros                                
 
-| VSC         |  Atom       | Sublime Text  |    | VSC         |  Atom       | Sublime Text  |
-| :---        |    :----:   |          ---: |    | :---        |    :----:   |          ---: |
-|             |             |               |    |             |             |               |
-|             |             |               |    |             |             |               |
+| VSC         |  Atom       | Sublime Text  |    
+| :---        |    :----:   |          ---: |    
+|             |             |               |    
+|             |             |               |    
+
+ 
+           #### Cons
+           
+| VSC         |  Atom       | Sublime Text  |    
+| :---        |    :----:   |          ---: |    
+|             |             |               |    
+|             |             |               |    
 
 
 
