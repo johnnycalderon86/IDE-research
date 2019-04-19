@@ -28,6 +28,13 @@ and seems like a tool worth mastering.
    
   ### Editors researched
    
+
+
+
+
+
+
+
 - [ ] Visual studio Code
 - [ ] Sublime Text
 - [ ] Atom
@@ -35,3 +42,4 @@ and seems like a tool worth mastering.
 > > 
 
 hello
+bye
