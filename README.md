@@ -16,17 +16,22 @@
  |  2. High Learning Curve.|
  |  3. Sometimes it is slow and requires good computers to work.| 
  
-
+### Editors researched
+| VSC         |  Atom       | Sublime Text  |
+| :---        |    :----:   |          ---: |
+|             |             |               |
+|             |             |               |
+|             |             |               | 
 
 
 
 ~~~~
-I chose  Visual Studio Code as my IDE because it was highly recommended by many developers 
-and seems like a tool worth mastering.
+function test() {
+  console.log("notice the blank line before this function?");
+}
 ~~~~
-
-   
-  ### Editors researched
+  
+  
    
 - [ ] Visual studio Code
 - [ ] Sublime Text
